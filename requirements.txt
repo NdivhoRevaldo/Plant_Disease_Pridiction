@@ -41,7 +41,7 @@ packaging==23.2
 pandas==1.4.4
 pillow==10.2.0
 pkgutil_resolve_name
-protobuf==3.11.4
+protobuf
 pyarrow==15.0.0
 pyasn1==0.5.1
 pyasn1-modules==0.3.0
