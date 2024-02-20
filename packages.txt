@@ -1,2 +1,2 @@
-libgl
-python==3.8.2
+apt-get dependency libgl
+apt-get dependency python==3.8.2
