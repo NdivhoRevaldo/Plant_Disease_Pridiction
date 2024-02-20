@@ -33,7 +33,7 @@ Keras==2.4.3
 Keras-Preprocessing==1.1.2
 Markdown==3.5.2
 MarkupSafe==2.1.5
-numpy==1.18.5
+numpy
 oauthlib==3.2.2
 opencv-python==4.4.0.46
 opt-einsum==3.3.0
